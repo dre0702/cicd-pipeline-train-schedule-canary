@@ -98,7 +98,7 @@ pipeline {
 
                     kubeconfigId: 'kubeconfig',
 
-                    configs: 'train-schedule-kube-canary.yml',
+                    configs: 'train-schedule-cube-canary.yml',
 
                     enableConfigSubstitution: true
 
@@ -132,7 +132,7 @@ pipeline {
 
                     kubeconfigId: 'kubeconfig',
 
-                    configs: 'train-schedule-kube-canary.yml',
+                    configs: 'train-schedule-cube-canary.yml',
 
                     enableConfigSubstitution: true
 
